@@ -5,6 +5,6 @@
 	branch = HEAD
 [submodule "VIGoR"]
 	path = VIGoR
-	url = https://github.com/cran/VIGoR
+	url = https://github.com/onogi/vigor
 	shallow = true
 	registered = true
