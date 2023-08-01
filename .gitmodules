@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "stacking"]
-	path = stacking
-	url = https://github.com/onogi/stacking
 [submodule "VIGoR"]
 	path = VIGoR
 	url = https://github.com/onogi/vigor
+[submodule "stacking"]
+	path = stacking
+	url = https://github.com/onogi/stacking
